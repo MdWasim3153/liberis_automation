@@ -1,4 +1,5 @@
-# liberis_automation
+# liberis_automation using C# with Specflow
+
 This is a sample automation testing project
 with a url to its home page and then on clicking 
 "Get a demo" button it is required that it should shift to 
