@@ -1,10 +1,14 @@
-# liberis_automation using C# with Specflow
+{{ # liberis_automation using C# Selenium with Specflow }}
 
-This is a sample automation testing project
-with a url to its home page and then on clicking 
-"Get a demo" button it is required that it should shift to 
-the next partner's page (https://www.liberis.com/become-a-partner).
+THESE ARE THE FOLLOWING STEPS I HAVE PERFORMED IN THIS AUTOMATION TESTING :-
+  1) I have logged in into https://www.liberis.com/ - using Chrome browser.
+  2) From there I have verified it by using its Title of it.
+  3) Once verified I clicked on the "Get a demo" button and have tried shifting to the Partner Selection Page.
+  4) I have verified that the user is on "become-a-partner" page. URL for that (https://www.liberis.com/become-a-partner)
+  5) Then the next step was to validate that :-
+     it should validate the message when user does not make a partner selection and click ‘Get a demo’ button
+  6) After verifying that the radio button was not checked
+  7) Then I clicked on the radio button and made a submit request 
 
-Then there are three options on "Type of partner", 
-so if none of them are selected then this msg should come
-"Please select a type of partner".
+These are the complete task that was asked from me.
+
